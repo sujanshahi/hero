@@ -1,0 +1,27 @@
+{
+    "total_sales":[
+    {
+        "week":"mon",
+        "sales":100
+    },
+    {
+        "week":"tue",
+        "sales":90
+    },{
+        "week":"wed",
+        "sales":76
+    },{
+        "week":"thu",
+        "sales":35
+    },{
+        "week":"fri",
+        "sales":99
+    },{
+        "week":"sat",
+        "sales":76
+    },{
+        "week":"sun",
+        "sales":89
+    }
+  ]
+}
