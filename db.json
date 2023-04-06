@@ -1,27 +1,52 @@
 {
-    "total_sales":[
+    "total_growth":[
     {
-        "week":"mon",
-        "sales":100
+        "month":"Jan",
+        "growth":30
     },
     {
-        "week":"tue",
-        "sales":90
-    },{
-        "week":"wed",
-        "sales":76
-    },{
-        "week":"thu",
-        "sales":35
-    },{
-        "week":"fri",
-        "sales":99
-    },{
-        "week":"sat",
-        "sales":76
-    },{
-        "week":"sun",
-        "sales":89
+        "month":"Feb",
+        "growth":38
+    },
+        {
+        "month":"Mar",
+        "growth":46
+    },
+        {
+        "month":"Apr",
+        "growth":50
+    },
+        {
+        "month":"May",
+        "growth":59
+    },
+        {
+        "month":"Jun",
+        "growth":64
+    },
+        {
+        "month":"Jul",
+        "growth":69
+    },
+        {
+        "month":"Aug",
+        "growth":77
+    },
+        {
+        "month":"Sep",
+        "growth":82
+    },
+       {
+        "month":"Oct",
+        "growth":88
+    },
+        {
+        "month":"Nov",
+        "growth":90
+    },
+        {
+        "month":"Dec",
+        "growth":98
     }
   ]
 }
